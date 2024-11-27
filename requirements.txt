@@ -1,1 +1,2 @@
 puzzle
+puzzle.search_result
