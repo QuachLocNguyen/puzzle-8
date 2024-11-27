@@ -1,1 +1,1 @@
-puzzle.search_result
+puzzle
